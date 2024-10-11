@@ -1,0 +1,3 @@
+xDjango>=3.0,<4.0  # Specify your Django version here if needed.
+cryptography  # If you are using it for encryption.
+sqlite3
