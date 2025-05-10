@@ -41,5 +41,5 @@ Before running the project, ensure you have the following installed:
 Open your terminal or command prompt and run:
 
 ```bash
-git clone https://github.com/username/repository.git
-cd repository
+git clone [https://github.com/username/repository.git](https://github.com/Decoder76/LMSystem.git)
+cd LMSystem
